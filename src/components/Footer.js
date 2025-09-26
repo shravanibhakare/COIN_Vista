@@ -1,6 +1,5 @@
 import React from "react";
-import creator from "../assets/creator.jpeg"; // add your image here (see note below)
-
+import creator from "../assets/creator.jpeg";
 export default function Footer(){
   return (
     <footer className="footer">
