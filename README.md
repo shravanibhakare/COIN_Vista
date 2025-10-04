@@ -102,7 +102,3 @@ MIT License © 2025
 Built for academic learning and research purposes.
 
 
----
-
-Would you like me to also add a **section showing evaluation in Jupyter Notebook (with accuracy % calculation)** at the end of this README so your professors know how you tested the model?
-
