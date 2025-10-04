@@ -28,7 +28,7 @@ It fetches real-time coin data from the **CoinGecko API** and uses an **LSTM (Lo
 
 Clone the repository
 
-git clone https://github.com/yourusername/coinvista.git
+git clone https://github.com/shravanibhakare/COIN_Vista.git
 cd coinvista
 
 
